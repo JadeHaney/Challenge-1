@@ -100,11 +100,13 @@
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
     background-color: #2589bd;
   }
-  
-  /* Benefits - H3 Styles */
-  .benefits h3 {
-    margin-bottom: 10px;
+
+  /* Benefits - H3, p Styles */
+  .benefits h3, p {
+    margin-top: 20px;
+    margin-bottom: 30px;
     text-align: center;
+    color: white;
   }
   
   /* Benefits - Image Styles */
