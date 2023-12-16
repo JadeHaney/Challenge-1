@@ -1,6 +1,6 @@
 User Story
-AS A developer working on a web application, 
-I WANT to create semantic, commented, and clean HTML and CSS code 
+AS A developer working on a web application,
+I WANT to create semantic, commented, and clean HTML and CSS code
 SO THAT the codebase is maintainable, easy to understand, and follows best practices.
 
 Acceptance Criteria
@@ -15,10 +15,10 @@ THEN All links should be functional
 WHEN Reviewing the image tags
 THEN all image tags should have an alt element
 
-WHEN Reviewing the README file 
+WHEN Reviewing the README file
 THEN There should be a description, screenshot, and link to deployed application
 
-Commented Code: 
+Commented Code:
 The HTML and CSS code must be well-commented to provide insights into the purpose of each section and any complex logic.
 
 WHEN Reviewing the HTML and CSS code
